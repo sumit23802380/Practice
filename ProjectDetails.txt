@@ -1,0 +1,2 @@
+I created this Git folder to learn Git command lines.
+To get familiar with GitHub.
